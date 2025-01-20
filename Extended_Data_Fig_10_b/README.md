@@ -1,0 +1,1 @@
+The annotation of biotypes was obtained from https://wormbase.org/tools/mine/simplemine.cgi.
